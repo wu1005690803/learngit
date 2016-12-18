@@ -6,3 +6,4 @@ Git is a version of the best controller.
 0000
 
 4444
+Creating a new branch is quick.
